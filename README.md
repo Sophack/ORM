@@ -48,6 +48,7 @@ Please follow standard guidelines at: [Contributor Covenant](https://www.contrib
 
 ## Video link: 
 
+https://github.com/Sophack/ORM/tree/main/functionalityVideo
 
 ## Questions
 
